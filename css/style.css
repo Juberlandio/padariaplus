@@ -188,6 +188,7 @@ width: 760px;
 height: 480px;
 padding-bottom: 30px;
 }
+
 /* Produtos */
 .produtos-bg {
 background: var(--cor-p3);
@@ -209,4 +210,16 @@ height: 204px;
 }
 .produtos img:last-child {
 padding-bottom: 20px;
+}
+
+/* Contato */
+.rodape h2 {
+padding-top: 31px;
+padding-bottom: 37px;
+}
+.rodape p + p {
+padding-top: 20px;
+}
+.rodape p:last-child {
+  padding-bottom: 25px;
 }
